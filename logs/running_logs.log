@@ -40,3 +40,277 @@ x==========x]
 [2024-01-06 22:27:03,035: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
 
 x==========x]
+[2024-01-06 22:45:15,184: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-06 22:45:15,190: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-06 22:45:15,193: INFO: common: created directory at: artifacts]
+[2024-01-06 22:47:00,068: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-06 22:47:00,073: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-06 22:47:00,075: INFO: common: created directory at: artifacts]
+[2024-01-06 22:47:25,526: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-06 22:47:25,529: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-06 22:47:25,531: INFO: common: created directory at: artifacts]
+[2024-01-06 22:48:20,841: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-06 22:48:20,846: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-06 22:48:20,849: INFO: common: created directory at: artifacts]
+[2024-01-06 22:55:47,706: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-06 22:55:47,712: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-06 22:55:47,714: INFO: common: created directory at: artifacts]
+[2024-01-06 22:56:01,795: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-06 22:56:01,798: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-06 22:56:01,801: INFO: common: created directory at: artifacts]
+[2024-01-06 22:58:07,230: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-06 22:58:07,232: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-06 22:58:07,235: INFO: common: created directory at: artifacts]
+[2024-01-06 22:59:00,854: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-06 22:59:00,862: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-06 22:59:00,866: INFO: common: created directory at: artifacts]
+[2024-01-06 23:06:29,875: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-06 23:06:29,886: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-06 23:06:29,892: INFO: common: created directory at: artifacts]
+[2024-01-06 23:08:03,777: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-06 23:08:03,786: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-06 23:08:03,790: INFO: common: created directory at: artifacts]
+[2024-01-07 00:55:46,678: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 00:55:46,682: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 00:55:46,687: INFO: common: created directory at: artifacts]
+[2024-01-07 00:57:16,818: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 00:57:16,821: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 00:57:16,823: INFO: common: created directory at: artifacts]
+[2024-01-07 01:00:57,026: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 01:00:57,029: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 01:00:57,032: INFO: common: created directory at: artifacts]
+[2024-01-07 01:01:03,856: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 01:01:03,860: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 01:01:03,863: INFO: common: created directory at: artifacts]
+[2024-01-07 01:21:19,747: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 01:21:19,751: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 01:21:19,753: INFO: common: created directory at: artifacts]
+[2024-01-07 01:21:51,382: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 01:21:51,388: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 01:21:51,391: INFO: common: created directory at: artifacts]
+[2024-01-07 01:22:37,191: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 01:22:37,196: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 01:22:37,199: INFO: common: created directory at: artifacts]
+[2024-01-07 01:23:15,803: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 01:23:15,808: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 01:23:15,811: INFO: common: created directory at: artifacts]
+[2024-01-07 01:29:07,031: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 01:29:07,034: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 01:29:07,037: INFO: common: created directory at: artifacts]
+[2024-01-07 01:55:16,458: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 01:55:16,463: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 01:55:16,465: INFO: common: created directory at: artifacts]
+[2024-01-07 01:55:16,467: INFO: common: created directory at: artifacts\training]
+[2024-01-07 01:55:51,188: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 01:55:51,194: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 01:55:51,197: INFO: common: created directory at: artifacts]
+[2024-01-07 01:55:51,201: INFO: common: created directory at: artifacts\training]
+[2024-01-07 01:58:21,447: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 01:58:21,453: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 01:58:21,456: INFO: common: created directory at: artifacts]
+[2024-01-07 01:58:21,459: INFO: common: created directory at: artifacts\training]
+[2024-01-07 02:04:10,012: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 02:04:10,020: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 02:04:10,023: INFO: common: created directory at: artifacts]
+[2024-01-07 02:04:10,026: INFO: common: created directory at: artifacts\training]
+[2024-01-07 02:05:26,229: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 02:05:26,232: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 02:05:26,236: INFO: common: created directory at: artifacts]
+[2024-01-07 02:05:26,238: INFO: common: created directory at: artifacts\training]
+[2024-01-07 19:33:24,167: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 19:33:24,185: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 19:33:24,201: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 19:33:24,202: INFO: common: created directory at: artifacts]
+[2024-01-07 19:33:24,203: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-07 19:33:24,203: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1d6wZjaf8sNfDmPZE5i0bjqTT-WJPam9z/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:33:27,573: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1d6wZjaf8sNfDmPZE5i0bjqTT-WJPam9z/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:33:28,519: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-01-07 19:33:28,520: INFO: main: *******************]
+[2024-01-07 19:33:28,520: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-01-07 19:33:28,524: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 19:33:28,528: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 19:33:28,530: INFO: common: created directory at: artifacts]
+[2024-01-07 19:33:28,531: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-01-07 19:33:29,488: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-07 19:33:29,937: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-01-07 19:33:29,938: INFO: main: *******************]
+[2024-01-07 19:33:29,940: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-01-07 19:33:29,949: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 19:33:29,954: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 19:33:29,955: INFO: common: created directory at: artifacts]
+[2024-01-07 19:33:29,957: INFO: common: created directory at: artifacts\training]
+[2024-01-07 19:33:30,720: ERROR: main: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\kidney-ct-scan-image']
+Traceback (most recent call last):
+  File "main.py", line 37, in <module>
+    model_trainer.main()
+  File "c:\users\prana\downloads\kidney_disease_deeplearning\src\cnnClassifier\pipeline\stage_03_model_training.py", line 20, in main
+    training.train_valid_generator()
+  File "c:\users\prana\downloads\kidney_disease_deeplearning\src\cnnClassifier\components\model_training.py", line 32, in train_valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "C:\Users\prana\anaconda3\envs\kidney_classification\lib\site-packages\keras\preprocessing\image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "C:\Users\prana\anaconda3\envs\kidney_classification\lib\site-packages\keras\preprocessing\image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\kidney-ct-scan-image'
+[2024-01-07 19:46:50,143: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 19:46:50,155: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 19:46:50,157: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 19:46:50,158: INFO: common: created directory at: artifacts]
+[2024-01-07 19:46:50,158: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-07 19:46:50,159: INFO: data_ingestion: Downloading data from https://drive.google.com/drive/folders/1fA73aHzkkT1PfSZc-d9JOB3CVF5HoaOS into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:46:50,650: INFO: data_ingestion: Downloaded data from https://drive.google.com/drive/folders/1fA73aHzkkT1PfSZc-d9JOB3CVF5HoaOS into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:46:51,255: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-01-07 19:46:51,255: INFO: main: *******************]
+[2024-01-07 19:46:51,257: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-01-07 19:46:51,263: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 19:46:51,265: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 19:46:51,266: INFO: common: created directory at: artifacts]
+[2024-01-07 19:46:51,267: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-01-07 19:46:51,696: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-07 19:46:51,956: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-01-07 19:46:51,956: INFO: main: *******************]
+[2024-01-07 19:46:51,958: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-01-07 19:46:51,965: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 19:46:51,967: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 19:46:51,968: INFO: common: created directory at: artifacts]
+[2024-01-07 19:46:51,969: INFO: common: created directory at: artifacts\training]
+[2024-01-07 19:46:52,329: ERROR: main: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\kidney-ct-scan-image']
+Traceback (most recent call last):
+  File "main.py", line 37, in <module>
+    model_trainer.main()
+  File "c:\users\prana\downloads\kidney_disease_deeplearning\src\cnnClassifier\pipeline\stage_03_model_training.py", line 20, in main
+    training.train_valid_generator()
+  File "c:\users\prana\downloads\kidney_disease_deeplearning\src\cnnClassifier\components\model_training.py", line 32, in train_valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "C:\Users\prana\anaconda3\envs\kidney_classification\lib\site-packages\keras\preprocessing\image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "C:\Users\prana\anaconda3\envs\kidney_classification\lib\site-packages\keras\preprocessing\image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\kidney-ct-scan-image'
+[2024-01-07 19:48:04,421: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 19:48:04,435: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 19:48:04,437: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 19:48:04,437: INFO: common: created directory at: artifacts]
+[2024-01-07 19:48:04,438: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-07 19:48:04,439: INFO: data_ingestion: Downloading data from https://drive.google.com/drive/folders/1fA73aHzkkT1PfSZc-d9JOB3CVF5HoaOS into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:48:04,920: INFO: data_ingestion: Downloaded data from https://drive.google.com/drive/folders/1fA73aHzkkT1PfSZc-d9JOB3CVF5HoaOS into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:48:04,921: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip']
+Traceback (most recent call last):
+  File "main.py", line 11, in <module>
+    data_ingestion.main()
+  File "c:\users\prana\downloads\kidney_disease_deeplearning\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+  File "c:\users\prana\downloads\kidney_disease_deeplearning\src\cnnClassifier\components\data_ingestion.py", line 46, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+  File "C:\Users\prana\anaconda3\envs\kidney_classification\lib\zipfile.py", line 1251, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip'
+[2024-01-07 19:49:07,440: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 19:49:07,456: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 19:49:07,458: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 19:49:07,458: INFO: common: created directory at: artifacts]
+[2024-01-07 19:49:07,459: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-07 19:49:07,459: INFO: data_ingestion: Downloading data from https://drive.google.com/drive/folders/1fA73aHzkkT1PfSZc-d9JOB3CVF5HoaOS into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:49:07,932: INFO: data_ingestion: Downloaded data from https://drive.google.com/drive/folders/1fA73aHzkkT1PfSZc-d9JOB3CVF5HoaOS into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:49:07,933: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip']
+Traceback (most recent call last):
+  File "main.py", line 11, in <module>
+    data_ingestion.main()
+  File "c:\users\prana\downloads\kidney_disease_deeplearning\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+  File "c:\users\prana\downloads\kidney_disease_deeplearning\src\cnnClassifier\components\data_ingestion.py", line 46, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+  File "C:\Users\prana\anaconda3\envs\kidney_classification\lib\zipfile.py", line 1251, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip'
+[2024-01-07 19:49:35,241: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 19:49:35,245: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 19:49:35,247: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 19:49:35,248: INFO: common: created directory at: artifacts]
+[2024-01-07 19:49:35,251: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-07 19:49:35,251: INFO: data_ingestion: Downloading data from https://drive.google.com/drive/folders/1fA73aHzkkT1PfSZc-d9JOB3CVF5HoaOS into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:49:35,721: INFO: data_ingestion: Downloaded data from https://drive.google.com/drive/folders/1fA73aHzkkT1PfSZc-d9JOB3CVF5HoaOS into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:49:35,722: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip']
+Traceback (most recent call last):
+  File "main.py", line 11, in <module>
+    data_ingestion.main()
+  File "c:\users\prana\downloads\kidney_disease_deeplearning\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+  File "c:\users\prana\downloads\kidney_disease_deeplearning\src\cnnClassifier\components\data_ingestion.py", line 46, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+  File "C:\Users\prana\anaconda3\envs\kidney_classification\lib\zipfile.py", line 1251, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip'
+[2024-01-07 19:50:49,088: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 19:50:49,092: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 19:50:49,094: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 19:50:49,095: INFO: common: created directory at: artifacts]
+[2024-01-07 19:50:49,095: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-07 19:50:49,096: INFO: data_ingestion: Downloading data from https://drive.google.com/drive/folders/1fA73aHzkkT1PfSZc-d9JOB3CVF5HoaOS into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:50:49,582: INFO: data_ingestion: Downloaded data from https://drive.google.com/drive/folders/1fA73aHzkkT1PfSZc-d9JOB3CVF5HoaOS into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:50:49,583: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip']
+Traceback (most recent call last):
+  File "main.py", line 11, in <module>
+    data_ingestion.main()
+  File "c:\users\prana\downloads\kidney_disease_deeplearning\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+  File "c:\users\prana\downloads\kidney_disease_deeplearning\src\cnnClassifier\components\data_ingestion.py", line 46, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+  File "C:\Users\prana\anaconda3\envs\kidney_classification\lib\zipfile.py", line 1251, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip'
+[2024-01-07 19:51:46,784: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 19:51:46,787: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 19:51:46,789: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 19:51:46,790: INFO: common: created directory at: artifacts]
+[2024-01-07 19:51:46,790: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-07 19:51:46,791: INFO: data_ingestion: Downloading data from https://drive.google.com/drive/folders/1fA73aHzkkT1PfSZc-d9JOB3CVF5HoaOS into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:51:47,266: INFO: data_ingestion: Downloaded data from https://drive.google.com/drive/folders/1fA73aHzkkT1PfSZc-d9JOB3CVF5HoaOS into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:51:47,267: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip']
+Traceback (most recent call last):
+  File "main.py", line 11, in <module>
+    data_ingestion.main()
+  File "c:\users\prana\downloads\kidney_disease_deeplearning\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+  File "c:\users\prana\downloads\kidney_disease_deeplearning\src\cnnClassifier\components\data_ingestion.py", line 46, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+  File "C:\Users\prana\anaconda3\envs\kidney_classification\lib\zipfile.py", line 1251, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip'
+[2024-01-07 19:52:32,542: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 19:52:32,558: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 19:52:32,560: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 19:52:32,560: INFO: common: created directory at: artifacts]
+[2024-01-07 19:52:32,561: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-07 19:52:32,561: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/14t7C1KQSAqAZqrcGhbioCcE86iz25B-B/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:52:35,611: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/14t7C1KQSAqAZqrcGhbioCcE86iz25B-B/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-01-07 19:52:36,251: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-01-07 19:52:36,252: INFO: main: *******************]
+[2024-01-07 19:52:36,252: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-01-07 19:52:36,254: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 19:52:36,256: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 19:52:36,256: INFO: common: created directory at: artifacts]
+[2024-01-07 19:52:36,257: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-01-07 19:52:36,695: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-07 19:52:36,933: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-01-07 19:52:36,933: INFO: main: *******************]
+[2024-01-07 19:52:36,935: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-01-07 19:52:36,941: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 19:52:36,943: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 19:52:36,944: INFO: common: created directory at: artifacts]
+[2024-01-07 19:52:36,945: INFO: common: created directory at: artifacts\training]
+[2024-01-07 19:54:20,490: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
